@@ -1,0 +1,9 @@
+# Watasha's Analysis:
+
+Charter schools have more students passing overall and are getting it done with $44 less per student on average than district schools. 
+Albeit, Charter schools have 45% less students than district schools. 
+The top performing schools are all charter schools while the bottom performing schools are all district schools.
+
+Larger schools rank lower in all score categories as shown in the Scores by School Size table probably due to higher teacher/student ratios.
+
+There's an inverse trend when comparing spending per student to pass rates. As the price of spending increases, the scores are decreasing as shown in the Scores by School Spending table.
