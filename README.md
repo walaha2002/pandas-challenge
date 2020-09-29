@@ -262,7 +262,6 @@ There's an inverse trend when comparing spending per student to pass rates. As t
    "source": [
     "# Dependencies and Setup\n",
     "import pandas as pd\n",
-    "import numpy as np\n",
     "\n",
     "# File to Load (Remember to Change These)\n",
     "school_data_to_load = \"Resources/schools_complete.csv\"\n",
